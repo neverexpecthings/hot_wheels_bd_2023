@@ -1,3 +1,5 @@
+# hot_wheels_bd_2023
+
 # Carros hotwheels (Modelado)
 
 ## Listados de Entidades
@@ -31,6 +33,16 @@
 3. Un _carro_ tiene un _modelo_.
 4. Un _modelo_ puede tener varios _carros_.
 
+## Diagramas
+
+### Modelo Entidad - Reación
+
+![Modelo Entidad - Reación](./hot_wheels_Modelo_E-R.png)
+
+### Modelo Relacional de la BD
+
+![Modelo Relacional de la BD](./hot_wheels_Modelo_RelacionalBD.png)
+
 ## Reglas de Negocio
 
 ### Carros hot wheels
@@ -61,4 +73,3 @@
 3. Leer el registro de un(os) modelo(s) en particular, dada una condicion en particular.
 4. Leer todos los registros de la entidad modelo.
 5. Eliminar los datos de un modelo dada una condicion en particular.
-# hot_wheels_bd_2023
