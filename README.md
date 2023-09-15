@@ -35,7 +35,7 @@
 
 ## Diagramas
 
-### Modelo Entidad - Reación
+### Modelo Entidad - Relación
 
 ![Modelo Entidad - Reación](./hot_wheels_Modelo_E-R.png)
 
