@@ -7,7 +7,7 @@
 ### cars_hotwheels
 
 - carro_id **(PK)**
-- nombre
+- marca
 - year
 - numero_serie **(UQ)**
 - condicion
